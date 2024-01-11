@@ -1,0 +1,4 @@
+C:\Users\darko\Desktop\Projektni Zadatak\Projektni Zadatak\bin\Debug\Projektni Zadatak.exe
+C:\Users\darko\Desktop\Projektni Zadatak\Projektni Zadatak\bin\Debug\Projektni Zadatak.pdb
+C:\Users\darko\Desktop\Projektni Zadatak\Projektni Zadatak\obj\x86\Debug\Projektni Zadatak.exe
+C:\Users\darko\Desktop\Projektni Zadatak\Projektni Zadatak\obj\x86\Debug\Projektni Zadatak.pdb
